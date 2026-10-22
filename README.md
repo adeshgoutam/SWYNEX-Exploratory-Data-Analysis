@@ -1,3 +1,4 @@
+# SWYNEX Internship Task 2 - Exploratory Data Analysis (EDA) using Python 
 # Exploratory Data Analysis (EDA) – Online Retail Dataset
 
 ## Project Overview
